@@ -1,1 +1,1 @@
-const calcularDesconto = (v) => v * 0.15;
+const calcularDesconto = (v) => v * 0.35;
